@@ -1,12 +1,12 @@
 # Site settings
-title: YAMT
-description: "Yet Another Minimal Theme"
+title: Ayoung Notes
+description: "Decentralization Enthusiast| Local Innovation Startup| Life Coaching|"
 url:  "https://yamt.netlify.app" # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
-  name: "Alessio Franceschi"
-  email: "alessiofranceschi2@gmail.com"
-  url: "https://alessiofranceschi.me"
+  name: "Saing Sab (Ayoung)"
+  email: "saing.sab@gmail.com"
+  url: "https://ayoungnotes.com"
 permalink: /:year/:month/:day/:title:output_ext
 
 #Theme
@@ -20,7 +20,7 @@ paginate_path: "/page:num/"
 
 #SEO
 twitter:
-  username: pandasekh
+  username: saingsab
   card: summary
 facebook:
   app_id: # Facebook app ID for Facebook insights
@@ -29,9 +29,9 @@ facebook:
 logo: /assets/img/logo.jpg
 social:
   links: #List your social links here
-    - https://twitter.com/PandaSekh
-    - https://www.github.com/pandasekh
-    - https://www.linkedin.com/in/alessio-franceschi/
+    - https://twitter.com/saingsab
+    - https://www.github.com/saingsab
+    - https://www.linkedin.com/in/saingsab
 webmaster_verifications:
   google: 
   bing: 
