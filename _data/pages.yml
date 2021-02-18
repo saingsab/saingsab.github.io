@@ -1,7 +1,7 @@
 pages:
   - {name: 'Archive', url: 'archive.html'}
-  - {name: 'Crypto Hub', url: 'cryptohub.md'}
-  - {name: 'Tech 101', url: 'tech.md'}
-  - {name: 'Travel', url: 'travel.md'}
+  - {name: 'Crypto Hub', url: 'cryptohub.html'}
+  - {name: 'Tech 101', url: 'tech.html'}
+  - {name: 'Travel', url: 'travel.html'}
   - {name: 'About', url: 'about.html'}
   - {name: 'Contact', url: 'contact.html'}
