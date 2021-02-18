@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Tech 101
+layout: categories
+permalink: /categories/#tech
+title: Categories
 ---
-
-# About Tech
