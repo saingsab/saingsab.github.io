@@ -1,5 +1,5 @@
 ---
-layout: categories
-permalink: /categories/#cryptocurrency/
+layout: default
 title: Cryptocurrency Hub
 ---
+# Cryptocurrency Hub
