@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gemspec
 
 gem 'jekyll'
-gem 'jekyll-yamt'
+gem 'jekyll-yamt', '~> 1.0', '>= 1.0.6'
 
 gem 'wdm', '>= 0.1.0'
 
