@@ -4,4 +4,3 @@ pages:
   - {name: 'Tech 101', url: 'tech.html'}
   - {name: 'Travel', url: 'travel.html'}
   - {name: 'About', url: 'about.html'}
-  - {name: 'Contact', url: 'contact.html'}
